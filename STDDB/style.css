@@ -126,11 +126,11 @@ a.button:hover {
 .button-group {
   display: flex;
   justify-content: center;
-  gap: 10px; /* consistent gap */
+  gap: 10px;
   margin-top: 20px;
 }
 
-/* Generic button style (for buttons that are not inputs or links) */
+/* Generic button style */
 .button {
   background-color: #800000;
   color: white;
