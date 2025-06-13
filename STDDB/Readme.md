@@ -14,3 +14,15 @@ This is a simple web-based Student Management System built with PHP and MySQL, s
 - PHP
 - MySQL
 - HTML/CSS
+
+## Open STDDB
+
+- C:\xampp\php\php.exe -S localhost:8000
+Make sure you are inside your project folder
+- cd C:\xampp\htdocs\STDDB
+Then run:
+- C:\xampp\php\php.exe -S localhost:8000
+You should now see:
+- PHP 8.x.x Development Server started at 
+http://localhost:8000
+- Open "http://localhost:8000" in your browser
